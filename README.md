@@ -1,2 +1,2 @@
 # leetcode
-LeetCode tasks solutions
+[LeetCode](http://leetcode.com) tasks solutions
