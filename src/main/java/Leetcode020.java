@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Leetcode20 {
+public class Leetcode020 {
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for (char c : s.toCharArray()) {
